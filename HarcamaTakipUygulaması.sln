@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarcamaTakipUygulaması", "HarcamaTakipUygulaması\HarcamaTakipUygulaması.csproj", "{90989D03-4E22-4CB7-9D59-24AAB04B9BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90989D03-4E22-4CB7-9D59-24AAB04B9BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90989D03-4E22-4CB7-9D59-24AAB04B9BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90989D03-4E22-4CB7-9D59-24AAB04B9BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90989D03-4E22-4CB7-9D59-24AAB04B9BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B4A1F9-6BAB-4C87-980C-679282C59F0B}
+	EndGlobalSection
+EndGlobal
